@@ -2,7 +2,7 @@
 
 ## Some overhead of work flow
 
-1) Clean.py takes in a csv file and does all the cleaning of the text outlined in section 1.2.3 of the report.
+1) Clean.py takes in a csv file and does all the cleaning of the text outlined in section 1.2.2 of the report.
 2) choose.py selects the subset of tweets we are going to analyze, and it selects the test tweets for prediction later on.
 3) betterDate.py converts the publish date of the tweets into a python datetime object.
 4) Visualize.py takes a csv file and constructs a word cloud from the corpus of tweets.
