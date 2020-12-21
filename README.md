@@ -1,4 +1,4 @@
-# Welcome to my series of srcipts for analysis!
+# Welcome to my series of scripts for analysis!
 
 ## Some overhead of work flow
 
